@@ -44,3 +44,7 @@ iframe {
     display: block;
     margin: auto;
 }
+
+#photo {
+    width: 320px;
+}
